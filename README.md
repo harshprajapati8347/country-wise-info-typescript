@@ -16,6 +16,7 @@ Users should be able to:
 - [Solution Github URL](https://github.com/harshprajapati8347/country-wise-info-typescript)
 - [Live Site URL](https://country-wise-info-typescript.netlify.app)
 
+
 ## Getting started
 
 ### Start the project
