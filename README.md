@@ -14,7 +14,7 @@ Users should be able to:
 ### Links
 
 - [Solution Github URL](https://github.com/harshprajapati8347/country-wise-info-typescript)
-- [Live Site URL](https://country-wise-info-typescript.vercel.app/)
+- [Live Site URL](https://country-wise-info-typescript.netlify.app/countries)
 
 ## Getting started
 
